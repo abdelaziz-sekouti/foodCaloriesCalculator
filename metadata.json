@@ -1,0 +1,5 @@
+{
+  "name": "NutriScan",
+  "description": "Get calorie and nutrition details for any food item using AI.",
+  "requestFramePermissions": []
+}
